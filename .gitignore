@@ -1,0 +1,26 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea/**
+.idea
+.idea/workspace.xml
+.idea//
+*.iml
+out
+gen
+
+### VS Code ###
+.vscode/
+/LOG_PATH_IS_UNDEFINED
+/.mvn/wrapper
+/*.log
+/*.log.*
+/*/*.log.*
+/.idea/
+
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!/src/main/**
+!/src/test/
